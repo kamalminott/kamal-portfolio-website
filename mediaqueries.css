@@ -103,4 +103,8 @@
     .details-container {
       width: 8rem;
     }
+    .article-container {
+      gap: 0.5rem;
+      overflow: hidden;
+    }
   }
