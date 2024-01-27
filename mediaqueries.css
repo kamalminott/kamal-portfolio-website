@@ -101,7 +101,7 @@
       text-align: justify;
     }
     .details-container {
-      width: 8rem;
+      width: 100%;
     }
     .article-container {
       gap: 0.5rem;
